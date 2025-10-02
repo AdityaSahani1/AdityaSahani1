@@ -3,30 +3,37 @@
   <img src="https://raw.githubusercontent.com/AdityaSahani1/AdityaSahani1/main/assets/banner-wave-gradient.svg" width="100%" alt="profile banner"/>
 </p>
 
-<!-- Visitor Count (Top Right) -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AdityaSahani1&label=Profile+Views&color=blue&style=flat-square" alt="visitor badge"/>
-</p>
+<!-- Top Section -->
+<div align="center">
+  
+  <!-- Avatar -->
+  <img src="https://avatars.githubusercontent.com/u/174172064?v=4" width="140" style="border-radius:50%; margin-bottom:10px;" alt="Aditya's avatar"/>
 
-<!-- Typing SVG Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=800&width=500&lines=Hi,+I'm+Aditya+Sahani;Welcome+to+my+GitHub!+%F0%9F%91%8B;BSc+IT+2026+%7C+Dev+%7C+Creator;Always+learning+%2B+sharing+%3A)" alt="Typing SVG" />
-</p>
+  <!-- Name + Intro -->
+  <h1>✨ Aditya Sahani ✨</h1>
+  <h3>BSc IT 2026 • Developer • Creator</h3>
+  
+  <!-- Typing Intro -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=00C2FF&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Always+Learning+%2B+Sharing;Coding+%7C+Poetry+%7C+Digital+Art" alt="Typing SVG"/>
 
----
-
-<!-- Social and Contact -->
-<p align="center">
-  <a href="mailto:adityamsahani9819@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/adi_xxa_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/AdityaSahani1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+  <!-- Visitor Count -->
+  <p align="right">
+    <img src="https://komarev.com/ghpvc/?username=AdityaSahani1&label=Profile+Views&color=blue&style=flat-square" alt="visitor badge"/>
+  </p>
+  
+  <!-- Social Links -->
+  <p>
+    <a href="mailto:adityamsahani9819@gmail.com">
+      <img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/adi_xxa_">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/AdityaSahani1">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
@@ -87,28 +94,3 @@
   <br>
   <em>Designed with 💙 by Aditya Sahani | Inspired by open source & dev community ✨</em>
 </p>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adi_xxa_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AdityaSahani1)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:adityamsahani9819@gmail.com)  
-
----
-
-## ✨ Projects
-
-Here are a few projects I've worked on. Feel free to explore and provide feedback:
-
-- [Project Alpha](https://github.com/AdityaSahani1/Project-Alpha) - A web app focusing on user-friendly design and clean codebase.
-- [Data Insights](https://github.com/AdityaSahani1/Data-Insights) - Exploring visualization and BI tools like Power BI and Tableau.
-- [Java Learning Path](https://github.com/AdityaSahani1/Java-Learning-Path) - My experiments and concepts using Java and related technologies.
-
----
-
-## 🚀 Tech Stack
-
-<!-- Keep your existing badges and layout here -->
-
----
-
-## 📈 GitHub Stats
-
-<!-- Keep your existing stats widgets here -->
