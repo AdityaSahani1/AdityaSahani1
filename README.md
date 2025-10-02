@@ -1,16 +1,5 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AdityaSahani1/AdityaSahani1/main/assets/banner-wave-gradient.svg" width="100%" alt="profile banner"/>
-</p>
-
-<!-- Top Section -->
-<div align="center">
-  
-  <!-- Avatar -->
-  <img src="https://avatars.githubusercontent.com/u/174172064?v=4" width="140" style="border-radius:50%; margin-bottom:10px;" alt="Aditya's avatar"/>
-
-  <!-- Name + Intro -->
-  <h1>✨ Aditya Sahani ✨</h1>
+ <!-- Name + Intro -->
+  <h1> Aditya Sahani </h1>
   <h3>BSc IT 2026 • Developer • Creator</h3>
   
   <!-- Typing Intro -->
